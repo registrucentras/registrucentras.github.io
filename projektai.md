@@ -39,7 +39,7 @@ Programinę įrangą kuriame šiais principais, tad to tikimės ir iš jūsų:</
     <div class="fastlinks-wrap">
 		<div class="box-wrap">
 		<div class="fl-box2 fl-box-1">
-			<div class="box-icn" style="background-image: url('/docs-test/assets/box.zyd.png')"><a class="project-link" href="https://github.com/registrucentras/onesign" target="_blank">GoSign.lt PHP Api client</a></div>
+			<div class="box-icn" style="background-image: url('/assets/box.zyd.png')"><a class="project-link" href="https://github.com/registrucentras/onesign" target="_blank">GoSign.lt PHP Api client</a></div>
 				<div class="box-ins">
 					<div class="box-txt">GoSign.lt dokumentų pasirašymo paketas skirtas PHP sistemoms
 				</div>

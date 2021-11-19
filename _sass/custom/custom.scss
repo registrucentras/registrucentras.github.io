@@ -1,0 +1,123 @@
+body { color:#5C5962; font-family: Segoe UI; font-weight: lighter; font-size: 16px; }
+
+p.lined {
+    line-height: 22pt;
+}
+
+html { }
+
+.nowrap {
+  white-space: nowrap ;
+}
+
+.site-logo { height: 80%; width: 80%; }
+
+.site-header { background-color: #006fb2; }
+
+.main-header { background-color: #006fb2; align-items: center; }
+
+.site-title:hover { background-image:none !important; }
+
+.search { background-color: #006fb2; height: 60% !important; }
+
+.search-input-wrap { background-color: #006fb2; }
+
+.search-input { border-radius: 3px; padding-top: 0 !important; padding-bottom: 0 !important; }
+
+.side-bar { border-right: none; }
+
+.search-label { padding-left: 1rem !important; }
+
+.nav-list a { color:#5a5a5a; }
+
+.main-content-wrap { background-image: url("/registrucentras.github.io/assets/RC-GitHub_elementai_Fonas_visas.png"); background-repeat: no-repeat; height: 100%; }
+
+.main { height: 100%; }
+
+.index-fastlinks {
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+}
+
+.index-fastlinks .fastlinks-wrap {
+    display: flex;
+}
+
+.index-fastlinks .fl-box {
+    margin: 0 0;
+    margin-left: 10px;
+    flex-basis: 305px;
+    display: block;
+}
+
+.index-fastlinks .fl-box2 {
+    margin: 0 0;
+    flex-basis: 305px;
+    display: block;
+}
+
+.index-fastlinks .bordered {
+    border: 0.5px solid #b3b3b3;
+    border-top: none;
+}
+
+.index-fastlinks .fl-box ul {
+    margin: 0;
+    padding: 5px 0;
+    list-style-type: none !important;
+    list-style-image: url('/registrucentras.github.io/assets/bullet.png');
+}
+
+.index-fastlinks .fl-box ul li {
+    margin: 0;
+    padding-bottom: 20px;
+    list-style-type: none !important;
+}
+
+.index-fastlinks .fl-box ul li:before {
+    content: none;
+}
+
+
+.box-icn {
+    height: 59px;
+    line-height: 54px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    color: #ffffff;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 2046px 90px;
+    display: flex;
+    flex-direction: column;
+}
+.project-link {
+    color: #ffffff;
+}
+
+.box-wrap {
+    position: relative;
+    width: 300px;
+}
+
+.box-wrap:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-top: 22px solid #ffffff;
+    border-left: 22px solid transparent;
+    width: 0;
+}
+
+.box-ins {
+    border: 0.5px solid #b3b3b3;
+    display: block;
+    padding: 10px;
+}
+
+.social-icon {
+    margin-right:30px;
+}

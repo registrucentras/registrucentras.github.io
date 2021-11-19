@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "pmarsceill/just-the-docs"
+
+name: VĮ Registrų centras
+lang: lt-LT
+title: Registrų centras
+
+logo: "/assets/rc-logo.png"
+
+avatar: "/assets/img/avatar-icon.png"
+
+description: Registrų centras
